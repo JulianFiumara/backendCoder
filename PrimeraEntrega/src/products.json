@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Segundo Remplazo desde Postman",
+      "description": "post desde postman",
+      "code": 500,
+      "price": 1500,
+      "status": "true",
+      "stock": 15,
+      "category": "mails",
+      "thumbnail": "link",
+      "id": 1
+    },
+    {
+      "title": "Postman",
+      "description": "post desde postman",
+      "price": 1500,
+      "thumbnail": "link",
+      "code": 500,
+      "stock": 15,
+      "status": "true",
+      "category": "mails",
+      "id": 2
+    },
+    {
+      "title": "Titulo 3",
+      "description": "post desde postman",
+      "price": 1500,
+      "thumbnail": "link",
+      "code": 500,
+      "stock": 15,
+      "status": "true",
+      "category": "mails",
+      "id": 3
+    },
+    {
+      "title": "Remplazo de postman",
+      "description": "post desde postman",
+      "code": 500,
+      "price": 1500,
+      "status": "true",
+      "stock": 15,
+      "category": "mails",
+      "thumbnail": "link",
+      "id": "4"
+    },
+    {
+      "title": "Titulo 5",
+      "description": "post desde postman",
+      "price": 1500,
+      "thumbnail": "link",
+      "code": 500,
+      "stock": 15,
+      "status": "true",
+      "category": "mails",
+      "id": 5
+    }
+  ]

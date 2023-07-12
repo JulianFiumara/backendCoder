@@ -1,0 +1,47 @@
+[
+    {
+      "title": "titulo",
+      "description": "es una prueba",
+      "price": 500,
+      "thumbnail": "link",
+      "code": 200,
+      "stock": 15,
+      "id": 1
+    },
+    {
+      "title": "titulo 2",
+      "description": "es una prueba",
+      "price": 500,
+      "thumbnail": "link",
+      "code": 200,
+      "stock": 15,
+      "id": 2
+    },
+    {
+      "title": "titulo 3",
+      "description": "es una prueba",
+      "price": 500,
+      "thumbnail": "link",
+      "code": 200,
+      "stock": 15,
+      "id": 3
+    },
+    {
+      "title": "titulo 4",
+      "description": "es una prueba",
+      "price": 500,
+      "thumbnail": "link",
+      "code": 200,
+      "stock": 15,
+      "id": 4
+    },
+    {
+      "title": "titulo 5",
+      "description": "es una prueba",
+      "price": 500,
+      "thumbnail": "link",
+      "code": 200,
+      "stock": 15,
+      "id": 5
+    }
+  ]
