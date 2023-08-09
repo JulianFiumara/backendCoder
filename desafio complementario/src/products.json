@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Producto 1",
+    "description": "Este es el producto 1",
+    "code": "100",
+    "price": "1000",
+    "statusInput": "true",
+    "stock": "1000",
+    "category": "Coputacion",
+    "thumbnail": "imagen",
+    "id": 1
+  },
+  {
+    "title": "Producto 2",
+    "description": "Este es el producto 2",
+    "price": "1000",
+    "thumbnail": "imagen",
+    "code": "100",
+    "stock": "1000",
+    "category": "Coputacion",
+    "id": 2
+  },
+  {
+    "title": "Producto 3",
+    "description": "Este es el producto 3",
+    "price": "1000",
+    "thumbnail": "imagen",
+    "code": "100",
+    "stock": "1000",
+    "category": "Coputacion",
+    "id": 3
+  }
+]
