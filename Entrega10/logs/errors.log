@@ -1,0 +1,12 @@
+{"level":"info","message":"Esto es un Log de nivel Info"}
+{"level":"warning","message":"Esto es un Log de nivel warning"}
+{"level":"error","message":"Esto es un Log de nivel error"}
+{"level":"fatal","message":"Esto es un Log de nivel fatal"}
+{"level":"info","message":"Esto es un Log de nivel Info"}
+{"level":"warning","message":"Esto es un Log de nivel warning"}
+{"level":"error","message":"Esto es un Log de nivel error"}
+{"level":"fatal","message":"Esto es un Log de nivel fatal"}
+{"level":"info","message":"usted es usuario"}
+{"level":"info","message":"login passport"}
+{"level":"info","message":{"__v":0,"_id":"6429dd3b5f4415e31c9e5ddc","age":20,"cart":"6429dd3b5f4415e31c9e5dda","email":"javier@gmail.com","first_name":"javier","last_name":"maita","password":"$2b$10$MHqLa5hBD7kCuqOcUpBPs./mWLDYL8plsFENxNErLSQgNZ67J1aLC","roll":"user"}}
+{"level":"info","message":"usted es usuario"}
