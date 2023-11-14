@@ -1,0 +1,21 @@
+{"__v":0,"_id":"64010a6571f4e310587dbb00","category":"mails","code":600,"description":"Producto para Mongo","level":"info","message":"updateProduct: ","price":1500,"status":"true","stock":4,"thumbnail":"link","title":"Remplazo para Mongo"}
+{"__v":0,"_id":"64029485d2af530810fc3a47","category":"Coputacion","code":100,"description":"Este es el producto 1","level":"info","message":"updateProduct: ","price":1000,"status":"true","stock":907,"thumbnail":"imagen","title":"Producto 1"}
+{"level":"info","message":"sbProducts: "}
+{"level":"info","message":2500}
+{"__v":0,"_id":"64029485d2af530810fc3a47","category":"Coputacion","code":100,"description":"Este es el producto 1","level":"info","message":"updateProduct: ","price":1000,"status":"true","stock":906,"thumbnail":"imagen","title":"Producto 1"}
+{"level":"info","message":"sbProducts: "}
+{"level":"info","message":1000}
+{"__v":0,"_id":"64029485d2af530810fc3a47","category":"Coputacion","code":100,"description":"Este es el producto 1","level":"info","message":"updateProduct: ","price":1000,"status":"true","stock":896,"thumbnail":"imagen","title":"Producto 1"}
+{"__v":0,"_id":"6454110dcb07888588066dfe","category":"Clothing","code":5,"description":"Carbonite web goalkeeper gloves are ergonomically designed to give easy fit","level":"info","message":"updateProduct: ","price":751,"status":"true","stock":6,"thumbnail":"https://loremflickr.com/640/480/business","title":"Bespoke Fresh Soap"}
+{"0":{"_id":"6406cb9b65188efaf0b21895","pid":{"__v":0,"_id":"64010a6571f4e310587dbb00","category":"mails","code":600,"description":"Producto para Mongo","price":1500,"status":"true","stock":4,"thumbnail":"link","title":"Remplazo para Mongo"},"quantity":10},"level":"info","message":"sbProducts: "}
+{"level":"info","message":1751}
+{"__v":0,"_id":"6454122752e5b45dbe38e472","category":"Outdoors","code":9,"description":"The Football Is Good For Training And Recreational Purposes","level":"info","message":"updateProduct: ","price":320,"status":"true","stock":14,"thumbnail":"https://loremflickr.com/640/480/business","title":"Sleek Frozen Pants"}
+{"__v":0,"_id":"6448aa3a1309ceaa01477743","category":"pcs","code":765,"description":"descripcion","level":"info","message":"updateProduct: ","price":115,"status":"true","stock":19,"thumbnail":"link","title":"prueba pc nueva"}
+{"0":{"_id":"646d40009f90a572f360c173","pid":{"__v":0,"_id":"64010a6571f4e310587dbb00","category":"mails","code":600,"description":"Producto para Mongo","price":1500,"status":"true","stock":4,"thumbnail":"link","title":"Remplazo para Mongo"},"quantity":15},"level":"info","message":"sbProducts: "}
+{"level":"info","message":435}
+{"__v":0,"_id":"64029485d2af530810fc3a47","category":"Coputacion","code":100,"description":"Este es el producto 1","level":"info","message":"updateProduct: ","price":1000,"status":"true","stock":895,"thumbnail":"imagen","title":"Producto 1"}
+{"0":{"_id":"646d40009f90a572f360c173","pid":{"__v":0,"_id":"64010a6571f4e310587dbb00","category":"mails","code":600,"description":"Producto para Mongo","price":1500,"status":"true","stock":4,"thumbnail":"link","title":"Remplazo para Mongo"},"quantity":15},"level":"info","message":"sbProducts: "}
+{"level":"info","message":1000}
+{"__v":0,"_id":"64029485d2af530810fc3a47","category":"Coputacion","code":100,"description":"Este es el producto 1","level":"info","message":"updateProduct: ","price":1000,"status":"true","stock":894,"thumbnail":"imagen","title":"Producto 1"}
+{"0":{"_id":"6406cb9b65188efaf0b21895","pid":{"__v":0,"_id":"64010a6571f4e310587dbb00","category":"mails","code":600,"description":"Producto para Mongo","price":1500,"status":"true","stock":4,"thumbnail":"link","title":"Remplazo para Mongo"},"quantity":10},"level":"info","message":"sbProducts: "}
+{"level":"info","message":1000}
